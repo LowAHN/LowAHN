@@ -2,6 +2,7 @@
 
 웹사이트 설계 구축 운영에 취미를 가진 LowAHN입니다. 
 현재는 첫번째 작품으로 https://endoflinux.com 사이트를 운영하고 있습니다.
+  (사이트 개편 중으로 잠시 쉬어가고 있습니다)
 
 🛠️ 기술 및 도구
 - MySQL, Apache, PHP, Python
