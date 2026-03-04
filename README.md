@@ -62,12 +62,12 @@ Currently developing native macOS utilities and exploring DevOps workflows.
 
 <div align="center">
 
-<a href="https://github.com/LowAHN/SystemPulse">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LowAHN&repo=SystemPulse&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
-<a href="https://github.com/LowAHN/ModuTaxZero">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=LowAHN&repo=ModuTaxZero&theme=github_dark&hide_border=true&bg_color=0d1117" />
-</a>
+| | Project | Description | Stack |
+|:---:|---------|-------------|:-----:|
+| <img src="https://img.shields.io/badge/-F05138?style=flat-square&logo=swift&logoColor=white" /> | [**SystemPulse**](https://github.com/LowAHN/SystemPulse) | Lightweight macOS menu bar system monitor | `Swift` `AppKit` |
+| <img src="https://img.shields.io/badge/-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> | [**ModuTaxZero**](https://github.com/LowAHN/ModuTaxZero) | Mobile application | `Kotlin` `Android` |
+| <img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white" /> | [**youtubeDownload**](https://github.com/LowAHN/youtubeDownload) | YouTube video downloader | `Python` |
+| <img src="https://img.shields.io/badge/-FCC624?style=flat-square&logo=linux&logoColor=black" /> | [**endoflinux.com**](https://endoflinux.com) | Tech blog on Linux & infrastructure | `Linux` `Apache` `PHP` |
 
 </div>
 
