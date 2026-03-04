@@ -73,23 +73,6 @@ Currently developing native macOS utilities and exploring DevOps workflows.
 
 <br>
 
-## `> git log --oneline`
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LowAHN&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1a6dd4&fire=58a6ff&currStreakLabel=58a6ff" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api?username=LowAHN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&hide_title=true&hide_rank=true" width="49%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LowAHN&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1a6dd4&point=58a6ff&area=true&area_color=1a6dd4" width="98%" />
-
-</div>
-
 <br>
 
 <div align="center">
