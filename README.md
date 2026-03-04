@@ -51,11 +51,3 @@ Currently developing native macOS utilities and exploring DevOps workflows.
 | [**SystemPulse**](https://github.com/LowAHN/SystemPulse) | Lightweight macOS menu bar system monitor | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
 | [**endoflinux.com**](https://endoflinux.com) | Tech blog on Linux & infrastructure | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | [**ModuTaxZero**](https://github.com/LowAHN/ModuTaxZero) | Mobile application | ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-
----
-
-<div align="center">
-
-![LowAHN's GitHub stats](https://github-readme-stats.vercel.app/api?username=LowAHN&show_icons=true&theme=transparent&hide_border=true&hide_title=true&hide_rank=true)
-
-</div>
